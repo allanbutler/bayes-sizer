@@ -9,6 +9,7 @@ bayessizer/__init__.py
 bayessizer/calculator.py
 bayessizer/inference.py
 bayessizer/priors.py
+tests/test.py
 tests/test_calculator.py
 tests/test_inference.py
 tests/test_priors.py
