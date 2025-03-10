@@ -4,7 +4,7 @@ Version: 1.0.1
 Summary: A Bayesian sample size calculator
 Project-URL: Homepage, https://github.com/allanbutler/bayes-sizer
 Project-URL: Issues, https://github.com/allanbutler/bayes-sizer/issues
-Requires-Python: >=3.12.2
+Requires-Python: >=3.8.18
 Description-Content-Type: text/markdown
 Requires-Dist: numpy
 Requires-Dist: scipy

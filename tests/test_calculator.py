@@ -1,5 +1,5 @@
 import pytest
-from bayes_sizer.calculator import bayesian_sample_size
+from bayessizer.calculator import bayesian_sample_size
 
 def test_bayesian_sample_size():
     """Test Bayesian sample size function returns a valid integer."""

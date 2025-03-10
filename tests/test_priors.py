@@ -1,6 +1,6 @@
 import pytest
 from scipy.stats import beta, norm
-from bayes_sizer.priors import get_beta_prior, get_normal_prior
+from bayessizer.priors import get_beta_prior, get_normal_prior
 
 def test_get_beta_prior():
     """Test Beta prior distribution."""
