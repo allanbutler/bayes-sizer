@@ -1,6 +1,6 @@
 import numpy as np
-from bayes_sizer.inference import compute_posterior, probability_test_better, credible_interval
-from bayes_sizer.priors import get_beta_prior
+from bayessizer.inference import compute_posterior, probability_test_better, credible_interval
+from bayessizer.priors import get_beta_prior
 
 def bayesian_sample_size(prior_a=1, prior_b=1, min_effect=0.02, power=0.8, loss_threshold=0.01):
     """
