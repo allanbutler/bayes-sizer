@@ -9,7 +9,7 @@ dependencies = [
     "scipy",
     "pytest",
     "ipykernel>=6.29.5",
-    "matplotlib>=3.10.1",
+    "matplotlib>=3.7.5",
     "seaborn>=0.13.2",
 ]
 

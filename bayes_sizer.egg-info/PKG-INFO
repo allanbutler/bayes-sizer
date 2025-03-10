@@ -10,13 +10,13 @@ Requires-Dist: numpy
 Requires-Dist: scipy
 Requires-Dist: pytest
 Requires-Dist: ipykernel>=6.29.5
-Requires-Dist: matplotlib>=3.10.1
+Requires-Dist: matplotlib>=3.7.5
 Requires-Dist: seaborn>=0.13.2
 
 # BayesSizer
 
-[![PyPI version](https://badge.fury.io/py/bayessizer.svg)](https://pypi.org/project/bayessizer/)
-[![Build Status](https://github.com/yourusername/bayessizer/actions/workflows/tests.yml/badge.svg)](https://github.com/yourusername/bayessizer)
+[![PyPI version](https://badge.fury.io/py/bayessizer.svg)](https://pypi.org/project/bayes-sizer/)
+[![Build Status](https://github.com/allanbutler/bayes-sizer/actions/workflows/ci_cd.yml/badge.svg)](https://github.com/allanbutler/bayes-sizer)
 
 BayesSizer is a Bayesian sample size calculator. It helps data scientists and experimenters determine the required sample size for A/B tests using Bayesian inference.
 
