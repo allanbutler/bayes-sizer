@@ -1,6 +1,6 @@
 [project]
 name = "bayes-sizer"
-version = "0.0.2"
+version = "1.0.3"
 description = "A Bayesian sample size calculator"
 readme = "README.md"
 requires-python = ">=3.12.0"
